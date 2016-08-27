@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="referenced jar of using xgboost/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="referenced jar of using xgboost/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="referenced jar of using xgboost/xgboost4j-1.1.jar" sourcepath="E:/研究生/比赛/KGG比赛项目/xgboost-master/java/xgboost4j"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
